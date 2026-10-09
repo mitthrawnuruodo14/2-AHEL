@@ -1,0 +1,10 @@
+# Ignoriere alle Windows .exe Dateien
+*.exe
+
+# Ignoriere ausführbare Mac-Dateien ohne Endung (oft a.out)
+*.out
+a.out
+
+# Ignoriere Mac-Systemdateien
+.DS_Store
+
