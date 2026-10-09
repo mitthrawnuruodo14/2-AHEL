@@ -14,7 +14,7 @@ int main(int argc,char* argv[])
     {
     printf("Du bist altgenug\n");
     }
-    // Hallo Git seconde time
+    // Hallo Git 3 time
     
     return 0;
 }
