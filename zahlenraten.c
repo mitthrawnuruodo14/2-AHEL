@@ -1,18 +1,13 @@
 #include <stdio.h>
-
-int main(int argc,char* argv[]) 
-{
-    int Volljearig = 18;
-    int alter;
-    printf("Gib dein Alter an: ");
-    scanf("%d",&alter);
-    if (alter < Volljearig)
-    {
-        printf("\nDu bist nicht altgenug\n");
-    }
-    if(alter > Volljearig)
-    {
-    printf("Du bist altgenug\n");
-    }
+#include <stdlib.h>
+#include <time.h>
+int main(void) 
+{   int i = 1;
+    int seedhelper = 0;
+    while (i == 1)
+        {
+        seedhelper == seedhelper + 1;
+        }
+            
     return 0;
 }
